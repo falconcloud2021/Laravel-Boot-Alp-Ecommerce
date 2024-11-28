@@ -1,0 +1,5 @@
+<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="dashboards">Dashboard</a>
+    <div class="dropdown-menu dropdown-caret dropdown-menu-card border-0 mt-0" aria-labelledby="dashboards">
+    <div class="bg-white dark__bg-1000 rounded-3 py-2"><a class="dropdown-item link-600 fw-medium" href="#">Default</a><a class="dropdown-item link-600 fw-medium" href="#">Analytics</a><a class="dropdown-item link-600 fw-medium" href="#">CRM</a><a class="dropdown-item link-600 fw-medium" href="../dashboard/e-commerce.html">E commerce</a><a class="dropdown-item link-600 fw-medium" href="../dashboard/lms.html">LMS<span class="badge rounded-pill ms-2 badge-subtle-success">New</span></a><a class="dropdown-item link-600 fw-medium" href="../dashboard/project-management.html">Management</a><a class="dropdown-item link-600 fw-medium" href="#">SaaS</a><a class="dropdown-item link-600 fw-medium" href="#">Support desk<span class="badge rounded-pill ms-2 badge-subtle-success">New</span></a></div>
+    </div>
+</li>

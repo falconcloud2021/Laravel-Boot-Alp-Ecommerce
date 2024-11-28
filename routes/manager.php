@@ -8,5 +8,5 @@ Route::middleware([
     'verified',
 ])->group(function () {
 
-    Route::get('/manager', function () {return view('manager');})->name('manager');
+    Route::get('/manager/home', function () {return view('platform.manager.home');})->name('manager-home');
 });
